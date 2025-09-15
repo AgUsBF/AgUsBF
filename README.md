@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Agustín
 
-<!--
-**AgUsBF/AgUsBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About me
 
-Here are some ideas to get you started:
+- 🔭 Engineer with experience in R&D (nuclear, aerospace, renewable energy).
+- 💻 Currently transitioning into software development and data science.
+- 🐧 Linux and LaTeX enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+
+- 🎓 Mechanical Engineering - Instituto Tecnológico de Buenos Aires
+- 🎓 Postgraduate Diploma in Nuclear Reactors and Fuel Cycle - Instituto Dan Beninson, UNSAM
+- 🎓 Master in Engineering - Instituto Balseiro, UNCuyo
+- 🎓 Systems Analyst Technical Degree - Escuela Da Vinci *(ongoing)*
+
+## 📌 Extra Info
+
+- 📄 [Full Resume / CV](https://github.com/AgUsBF/abf-cv)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/agustin-bf/)
