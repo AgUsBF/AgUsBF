@@ -6,6 +6,7 @@
 - 💻 Currently transitioning into software development and data science.
 - 🔍 Advocate for scientific research and open knowledge.
 - 🐧 Enthusiast for Linux and LaTeX.
+- 🔗 [LinkedIn profile](https://www.linkedin.com/in/agustin-bf/)
 
 ## 🛠️ Tech Skills
 
@@ -22,7 +23,3 @@
 - 🎓 Postgraduate Diploma in Nuclear Reactors and Fuel Cycle - Instituto Dan Beninson, UNSAM
 - 🎓 Master in Engineering - Instituto Balseiro, UNCuyo
 - 🎓 Bachelor in Information Systems - Escuela Da Vinci *(ongoing)*
-
-## 📌 Extra Info
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/agustin-bf/)
