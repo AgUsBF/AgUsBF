@@ -23,8 +23,13 @@ $ history
 ├── Master in Engineering - Instituto Balseiro, UNCuyo
 └── Bachelor in Information Systems - Escuela Da Vinci (ongoing)
 
-$ git status
-This GitHub account is secondary.
-Main projects have been migrated to gitlab.com/AgUsBF.
+$ gpg --fingerprint 
+pub   rsa4096 2026-01-17 [SC]
+      1FCF E2D1 DC39 CED6 0210  41C7 C988 F628 F092 9E74
+uid           [ultimate] Agustin Beceyro Ferran <agustinbeceyro@gmail.com>
+sub   rsa4096 2026-01-17 [E]
 ```
 
+## License
+
+This repo is shared under License **GNU-GPL V3**.
