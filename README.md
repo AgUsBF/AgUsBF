@@ -29,7 +29,3 @@ pub   rsa4096 2026-01-17 [SC]
 uid           [ultimate] Agustin Beceyro Ferran <agustinbeceyro@gmail.com>
 sub   rsa4096 2026-01-17 [E]
 ```
-
-## License
-
-This repo is shared under License **GNU-GPL V3**.
